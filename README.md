@@ -1,0 +1,64 @@
+"http://www.w3.org/TR/html4/strict.dtd">
+
+
+
+
+</head>
+
+<body>
+
+<h1>Lake Tahoe</h1>
+
+<h2><sub>By: Jake Lee</sub></h2>
+
+<img src="http://honeymoons.com/wp-content/uploads/2016/02/Nevada-Lake-Tahoe-Sunset_4_3.jpg" alt=“Emerald Bay“ width="304" height="228">
+
+<form style="display: inline" action="http://www.gettyimages.com/photos/lake-tahoe?excludenudity=true&sort=mostpopular&mediatype=photography&phrase=lake%20tahoe" method="get">
+
+<a href="http://www.gettyimages.com/photos/lake-tahoe?excludenudity=true&sort=mostpopular&mediatype=photography&phrase=lake%20tahoe">More Photos of Lake Tahoe</a>
+
+</form>
+
+<p>Lake Tahoe is located on the border of California and Nevada. The state line splits right through the middle of the lake and it is freshwater. Even though the lake stands at 6,225 feet above sea level, it never freezes in the winter, but is surrounded by the Sierra Nevada Mountain Range. Surprisingly enough, Lake Tahoe experiences all four seasons with temperatures ranging from twenty below zero all the way up to one hundred degrees fahrenheit. The varying climate allows for a plethora of outdoor activities, ranging from sailing and hiking to skiing and snowmobiling, making it a great place to own a vacation home.
+
+</p>
+
+<table id="t01" border="1" class="center">
+
+<tr>
+
+<th>Month</th><th>March</th><th>June</th><th>September</th><th>December</th>
+
+</tr>
+
+<tr>
+
+<td>Average High (deg F)</td><td>44</td><td>69</td><td>70</td><td>40</td>
+
+<tr>
+
+<td>Average Low (deg F)</td><td>23</td><td>39</td><td>21</td><td>-16</td>
+<tr>
+<td>Average Snowfall (inches)</td><td>35</td><td>0</td><td>0</td><td>35</td>
+
+</table>
+
+<p>Unfortunately, the level of the lake is decreasing because California is experiencing a horrific drought. Lake Tahoe is currently 1,645 feet deep, but as our planet continues to warm up, less and less snow is melting down into the Truckee River Basin, the lake’s primary source. This problem keeps becoming more prevalent considering the percentage if wildlife that the lake supports. Sooner or later, the life of Lake Tahoe may die out if people do not see the affects of climate change on Earth. </p>
+
+<p>Even though Lake Tahoe is runner up behind Lake Crater in Oregon for deepest Lake in the country, it is still the best place on Earth, in my opinion. Here is a list of my top 3 favorite places around Lake Tahoe.</p>
+
+<ol id="l01">
+
+<li>Emerald Bay</li>
+
+<li>Heavenly Ski Resort</li>
+
+<li>Eagle Lake</li>
+
+</ol>
+
+<b>For more information on the lake, you may visit</b> <a href="https://en.wikipedia.org/wiki/Lake_Tahoe#Environmental_issues"> this wikipedia page made for Lake Tahoe.</a>
+
+</body>
+
+</html>
