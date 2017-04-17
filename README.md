@@ -45,6 +45,8 @@ https://github.com/jakel12/Lake-Tahoe/blob/master/README.md
 
 <p>Unfortunately, the level of the lake is decreasing because California is experiencing a horrific drought. Lake Tahoe is currently 1,645 feet deep, but as our planet continues to warm up, less and less snow is melting down into the Truckee River Basin, the lake’s primary source. This problem keeps becoming more prevalent considering the percentage if wildlife that the lake supports. Sooner or later, the life of Lake Tahoe may die out if people do not see the affects of climate change on Earth. </p>
 
+<img src="http://www.skilaketahoe.com/wp-content/uploads/2015/09/blog-heavenly-go-all-in-with-heavenly.jpg" alt=“Skiier“ width="304" height="228">
+
 <p>Even though Lake Tahoe is runner up behind Lake Crater in Oregon for deepest Lake in the country, it is still the best place on Earth, in my opinion. Here is a list of my top 3 favorite places around Lake Tahoe.</p>
 
 <ol id="l01">
