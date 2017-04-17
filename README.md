@@ -2,7 +2,14 @@
 
 https://github.com/jakel12/Lake-Tahoe/blob/master/README.md
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-
+ <title>Index.html</title>
+      <style type="text/css">
+		P {font-family:"Chalkboard"}
+		body {text-align:center;background-color:#90EE90}
+		table#t01 {background-color:#1E90FF}
+		ol#l01 {text-align: center; list-style-position:inside}
+		table.center {margin-left:auto;margin-right:auto;}
+	</style>
 </head>
 
 <body>
