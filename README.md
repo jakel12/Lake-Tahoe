@@ -2,8 +2,6 @@
 
 https://github.com/jakel12/Lake-Tahoe/blob/master/README.md
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-        <title>Index.html</title>
-      <style type="text/css">
 
 </head>
 
